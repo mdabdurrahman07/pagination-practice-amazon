@@ -25,3 +25,11 @@
     justify-content: space-between;
     align-items: center;
 }
+.pages{
+
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+   margin-bottom: 20px;
+}
